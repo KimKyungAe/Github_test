@@ -13,6 +13,7 @@ public class Test {
 		System.out.println("KGA feature-BB2");
 		System.out.println("KKA progress-A");
 		System.out.println("KKA progress-AA");
+		System.out.println("KKA progress-B");
 	}
 
 }
