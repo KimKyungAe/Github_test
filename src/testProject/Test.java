@@ -11,6 +11,7 @@ public class Test {
 		System.out.println("KGA feature-B");
 		System.out.println("KGA feature-BB");
 		System.out.println("KGA feature-BB2");
+		System.out.println("KGA feature-BB-conflict-solved");
 		System.out.println("KKA progress-A");
 		System.out.println("KKA progress-AA");
 		System.out.println("KKA progress-B");
