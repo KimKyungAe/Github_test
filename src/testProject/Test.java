@@ -8,6 +8,7 @@ public class Test {
 		System.out.println("KGA feature-A2");
 		System.out.println("KGA feature-AA");
 		System.out.println("KGA feature-B");
+		System.out.println("KGA feature-BB");
 	}
 
 }
